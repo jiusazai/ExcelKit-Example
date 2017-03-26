@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ExcelKit-Example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ExcelKit-Example.war">
+      <element id="artifact" artifact-name="ExcelKit-Example:war exploded" />
+    </root>
+  </artifact>
+</component>
